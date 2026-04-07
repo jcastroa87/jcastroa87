@@ -37,3 +37,4 @@ Metodologias:   Scrum, Kanban, mejora continua
 | LinkedIn | [in/jorgecastroaravena](https://linkedin.com/in/jorgecastroaravena) |
 | CV | [Descargar CV](https://nosoynerd.com/cv) |
 | Email | jcastroa87@gmail.com |
+
