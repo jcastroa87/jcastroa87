@@ -1,6 +1,6 @@
 # Hi, I'm Jorge Castro
 
-**Engineering Manager** at [Flow Pagos](https://www.flow.cl/) | I build and run my own products with coding agents.
+**Engineering Manager** at [Flow Pagos](https://www.flow.cl/) | I build and run software with coding agents.
 
 ---
 
