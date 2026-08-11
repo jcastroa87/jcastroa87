@@ -1,6 +1,6 @@
 # Hola, soy Jorge Castro
 
-**Engineering Manager** en [Flow Pagos](https://www.flow.cl/) | Construyo y opero software con agentes de código.
+**Engineering Manager** en Flow Pagos | Construyo y opero software con agentes de código.
 
 ---
 
@@ -23,11 +23,11 @@ Fuera de lo técnico, soy **Bombero Voluntario** hace más de 11 años.
 ### Stack & herramientas
 
 ```
-Backend:         PHP/Laravel, Python, JavaScript, Node.js
+Backend: PHP/Laravel, Python, JavaScript, Node.js
 Infraestructura: AWS, Docker, CI/CD, Linux, Nginx, PostgreSQL, MySQL
-IA & Automatización: Claude Code, Claude API, Google Antigravity, n8n, GitHub Copilot
-Seguridad:       Ethical hacking, pentesting, código seguro
-Metodologías:    Scrum, Kanban, mejora continua
+IA & Automatización: Claude Code, Codex, Google Antigravity, n8n, GitHub Copilot
+Seguridad: Ethical hacking, pentesting, código seguro
+Metodologías: Scrum, Kanban, mejora continua
 ```
 
 ### Links
@@ -47,7 +47,7 @@ Metodologías:    Scrum, Kanban, mejora continua
 
 ## Hi, I'm Jorge Castro
 
-**Engineering Manager** at [Flow Pagos](https://www.flow.cl/) | I build and run software with coding agents.
+**Engineering Manager** at Flow Pagos | I build and run software with coding agents.
 
 ### About me
 
