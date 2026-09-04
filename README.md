@@ -1,6 +1,6 @@
 # Hola, soy Jorge Castro
 
-**Engineering Manager** en Flow Pagos | Construyo y opero software con agentes de código.
+**Líder de Equipo** en Flow Pagos | Construyo y opero software con agentes de código.
 
 ---
 
@@ -8,7 +8,7 @@
 
 Lidero el equipo de Mejora Continua en Flow Pagos, una de las plataformas de pago más grandes de LATAM, gestionando estabilidad de plataforma y excelencia en ingeniería para Chile, Perú y México.
 
-Mi trayectoria: **Developer** > **CTO & Co-fundador** (9 años, 100+ clientes, 300+ proyectos) > **Tech Lead** (20+ integraciones de pago) > **Engineering Manager**.
+Mi trayectoria: **Developer** > **CTO & Co-fundador** (9 años, 100+ clientes, 300+ proyectos) > **Tech Lead** (20+ integraciones de pago) > **Líder de Equipo**.
 
 Fuera de lo técnico, soy **Bombero Voluntario** hace más de 11 años.
 
@@ -47,13 +47,13 @@ Metodologías: Scrum, Kanban, mejora continua
 
 ## Hi, I'm Jorge Castro
 
-**Engineering Manager** at Flow Pagos | I build and run software with coding agents.
+**Team Lead** at Flow Pagos | I build and run software with coding agents.
 
 ### About me
 
 I lead the Continuous Improvement team at Flow Pagos, one of the largest payment platforms in LATAM, managing platform stability and engineering excellence across Chile, Peru, and Mexico.
 
-My path: **Developer** > **CTO & Co-founder** (9 years, 100+ clients, 300+ projects) > **Tech Lead** (20+ payment integrations) > **Engineering Manager**.
+My path: **Developer** > **CTO & Co-founder** (9 years, 100+ clients, 300+ projects) > **Tech Lead** (20+ payment integrations) > **Team Lead**.
 
 Outside of tech, I've been a **Volunteer Firefighter** for over 11 years.
 
